@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "prereg_unchanged": true,
+  "execution_freeze_checksums_passed": true,
+  "sealed_result_matches_delivery": true,
+  "report_links_and_figures_present": true,
+  "main_and_sensitivity_decisions_verified": true,
+  "post_characters": [
+    226,
+    186,
+    238,
+    234
+  ],
+  "largest_delivery_file_bytes": 1075938,
+  "branch": "run/v1"
+}

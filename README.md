@@ -1,21 +1,38 @@
-# NEXT：NGRC 预测区间独立复核 / Independent NGRC interval replication
+# NEXT：NGRC 预测区间独立复核
 
-**状态：NEXTlock 结果前协议已本地定稿；实验未运行，结果未出，未 push，尚无公开预注册时间戳。**
+本仓库已完成 NEXTrun 的预定主实验与全部 L2；正式结果与研究结论见 [中文报告](REPORT.md) 和 [完整结果 JSON](evaluation/result.json)。结果是否支持命题由锁定质量门及 M→E→J 顺序决定，完成运行不等于假设成立。
 
-本项目计划对 [arXiv:2609.32169v1](https://arxiv.org/abs/2609.32169v1)，*Uncertainty Quantification of Next Generation Reservoir Computing with Applications to Memory-Driven Dynamical Systems*，进行预注册独立复核。范围仅限 §5.4 的合成观测噪声突变实验，比较冻结 Bayesian（B）、冻结 split conformal（F）、更新 Gaussian（G）与 adaptive conformal（A）的覆盖、宽度和 Winkler 评分。
+- 锁定协议：[PREREG.md](PREREG.md)，原件不改；文首“尚未公开”是锁定时的历史状态。
+- 结果前执行冻结：[EXECUTION.md](EXECUTION.md)、[源文件哈希](EXECUTION_SHA256SUMS)、[配置](config.json)、[软件锁](software_lock.json)。
+- 验收与复算：[结果前验收](validation_before_run.txt)、[独立复算脚本](scripts/recompute.py)、[复算记录](evaluation/independent_recompute.json)。
+- 审计：[偏离记录](DEVIATIONS.md)、[公开读取证据](evidence/public_lock.json)、[300 次尝试](evaluation/attempts.json)、[原始文件哈希](evaluation/artifact_manifest.json)。
+- 交流：[英文 X 草稿](x_post.md)，未发送；全部为本地中文提交，不 push。
 
-文档中的 0.726、0.929、0.938 等是原论文表 1 的数字，不是本项目测量值。作者代码与逐种子数据尚未核实获得，不承诺逐位复现。A 采用本稿预先固定的主约定。本项目是对已知原表差距的独立实现检验，不是盲分析。
+本研究只在冻结轨道 x* 的观测噪声总体内推断，是对已知原表差距的独立实现检验。作者代码与逐重复数据不可得；A 使用本协议主约定，不能因一项不匹配就认定原论文错误。首次公开的精确时间未能从 GitHub events 接口核实；本次保存了结果生成前的匿名公开可读证据，不用本地 Git 时间或本次读取时间冒充首次公开时间。
 
-全部推断条件于冻结轨道 x* 的观测噪声总体，来自 100 个配对噪声重复；确认性窗口只有测试索引 `{160,…,799}`。M 要求 G−B 的双侧 95% 配对区间下界严格大于 0.15；固定序列为 M→E→J。基准/负对照质量门使用六项 Bonferroni 调整后的统计相容区间，包含 B 的高噪声基准。J 检验两项配对线性差 `G−1.10A` 的 90% 区间上界均小于 0；均值比只作描述。敏感性按协议限定结论措辞，不将变体升级为确认性结果。
+## 复现执行
 
-| 文件 | 内容 |
-|---|---|
-| [PREREG.md](PREREG.md) | NEXTlock 最终协议；算法、质量门、统计判据与报告规则的权威版本 |
-| [response2.md](response2.md) | 两份二轮复核的 14 项逐条处理；与任务要求的上游同名交付件按字节一致 |
-| [response.md](response.md) | 第一轮历史回复；其中被二轮修改的规则以 PREREG 为准 |
-| [feasibility.md](feasibility.md) | 来源、许可范围、依赖与静态预算 |
-| [evidence/README.md](evidence/README.md) | 来源元数据及全文不随包分发的边界 |
-| [SHA256SUMS](SHA256SUMS) | 实际随包文档与元数据的 SHA-256 清单（不自包含） |
+精确执行提交为 `c061a7eafaa1073e0e07bd1a5da3aae3f2fbae62`，这是首次正式数据生成前的实现冻结。正式执行器要求工作树干净、依赖版本和冻结文件哈希一致，且拒绝覆盖原目录。可在另一个目录检出该提交，安装 [requirements.lock](requirements.lock) 中的依赖；Python/BLAS 信息见软件锁。当前工作目录的 `.venv` 复用了固定系统包，限制已登记。
+
+```sh
+OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 timeout 7200 .venv/bin/python -m unittest discover -s tests -v
+OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 timeout --signal=TERM --kill-after=5 7200 .venv/bin/python -m nextrun.run --output artifacts/v1
+OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 timeout --signal=TERM --kill-after=5 7200 .venv/bin/python scripts/recompute.py artifacts/v1 --output artifacts/recompute_v1.json
+```
+
+上述命令在新检出的执行冻结目录运行。报告渲染器随后加入交付提交，只做展示，不改变封存统计；在含该脚本的交付目录可运行：
+
+```sh
+OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 timeout 7200 .venv/bin/python scripts/render_report.py
+```
+
+`artifacts/v1/` 原始数据只留本地，所有文件都有 SHA-256；它包含标准正态创新、带噪观测、划分、拟合、逐点区间、预测前 α/历史极值以及统一 bootstrap ID。原始大文件不入库。仓库中的 `evaluation/seed_metrics.npz` 为小型种子级汇总，原始数组可以由冻结代码生成；报告的独立复算需要原始本地产物或按冻结代码重建的完整目录。
+
+`SHA256SUMS` 校验最终交付文件；`EXECUTION_SHA256SUMS` 校验结果前执行冻结。后者如涉及追加式审计文档，应在记录的执行提交上校验，执行核心代码从冻结后保持不变。
+
+## 历史锁定流程
+
+下述流程是 NEXTlock 阶段保留的历史说明；“本轮”指锁定阶段，执行状态以上述 NEXTrun 结果为准。
 
 ## 锁定流程
 
@@ -31,22 +48,8 @@
 
 ## English
 
-**Status: NEXTlock protocol finalized locally, before results. No experiments have been run, no push has been made, and no public preregistration timestamp exists.**
+The preregistered primary experiment and all scheduled sensitivity analyses have been executed. See REPORT.md and evaluation/result.json for the actual quality gate and confirmatory decisions. Completion does not imply confirmation. Inference is conditional on observation noise around the frozen trajectory; this is an independent implementation check of a known published gap.
 
-This is a planned independent replication of the synthetic observation-noise shift experiment in §5.4 of [arXiv:2609.32169v1](https://arxiv.org/abs/2609.32169v1). Published table values are references, not new measurements. Inference concerns observation noise conditional on the frozen trajectory x*, test indices `{160,…,799}`, and the protocol's primary A convention. This is an independent implementation check of an already known published gap.
+The original PREREG.md is unchanged. The implementation, tests, configuration and precise dependencies were committed before formal seed generation. Raw input/output files remain outside Git with checksums; a standalone verifier re-integrates the trajectories and reconstructs interval metrics and statistical decisions. All commits are local; no push or social post was made. Exact first-public time is unverified; only pre-execution anonymous public readability is established.
 
-M requires the lower endpoint of a two-sided 95% paired interval for G−B to exceed 0.15. The confirmatory sequence is M→E→J, preceded by six Bonferroni-adjusted compatibility checks including the B baseline. J requires both paired linear contrasts G−1.10A, for width and Winkler score, to have negative upper endpoints of their 90% intervals. Ratios remain descriptive. Sensitivity findings qualify the reporting language without creating new confirmatory analyses.
-
-The [Chinese locking workflow](#锁定流程) is authoritative: the finalized protocol commit must be the branch tip of the **first push to public GitHub**. That commit anchors preregistration; its first verifiable public availability supplies the timestamp. A local commit date is not a public timestamp. A subsequent registration commit records the lock SHA, PREREG SHA-256, public commit link, public time and evidence without rewriting the locked snapshot. Public locking and a separate implementation/configuration/dependency freeze must precede formal data generation. Amendments remain separate, disclose whether results were seen, and never replace the original timestamp. This task performs no push or experiment.
-
-[PREREG.md](PREREG.md) is the final protocol; [response2.md](response2.md) resolves both second-round reviews. [response.md](response.md) is historical. Full third-party texts, figures and code are not distributed. Runtime estimates have not been benchmarked.
-
-## 文件完整性 / Integrity
-
-以下命令只读取文件和 Git 元数据，不运行实验。These commands only inspect files and Git metadata.
-
-```sh
-sha256sum -c SHA256SUMS
-sha256sum PREREG.md
-git rev-parse HEAD
-```
+Third-party paper texts and original figures are not distributed. The repository contains our code, analysis, redrawn figures, metadata and source links.

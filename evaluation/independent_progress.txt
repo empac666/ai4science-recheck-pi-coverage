@@ -1,0 +1,13 @@
+independent main: 25/100 (168.0s)
+independent main: 50/100 (339.3s)
+independent main: 75/100 (510.2s)
+independent main: 100/100 (684.0s)
+independent half_step: 25/100 (727.2s)
+independent half_step: 50/100 (770.9s)
+independent half_step: 75/100 (813.2s)
+independent half_step: 100/100 (855.2s)
+independent index20: 25/100 (903.5s)
+independent index20: 50/100 (948.2s)
+independent index20: 75/100 (992.4s)
+independent index20: 100/100 (1034.8s)
+{"status": "passed", "raw_artifact_manifest_sha256": "29f2f4d99252a8932913730ff7e44d2826bbc9926ee361b1d79839d0fe3a9799", "result_sha256": "a07981a8d6a90d19836c089f3ae211a00f8f3c73b348b1d2c4eec1e2d09ea7cb", "intervals_recomputed": 3040000, "fits_checked": 300, "seed_attempts": 300, "all_summary_and_comparison_statistics_checked": true, "all_adaptive_diagnostics_checked": true, "all_prequential_widths_checked": true, "independent_raw": {"M": true, "E": false, "J": true}, "independent_gated": {"M": "未检验（质量门关闭）", "E": "未检验（质量门关闭）", "J": "未检验（质量门关闭）"}, "quality_gate": false, "coverage_width_atol": 1e-12, "winkler_atol": 1e-10, "winkler_rtol": 1e-10, "wall_seconds": 1037.9292217830007}
