@@ -1,17 +1,7 @@
 {
-  "scope": "anonymous source availability, file sizes and dependency metadata only; no simulation, model fit or coverage calculation",
+  "scope": "anonymous source availability and file sizes only; no simulation, model fit or coverage calculation; local environment fields omitted in NEXTlock",
   "finished_utc": "2026-10-08T10:28:00.695513+00:00",
   "elapsed_s": 1.774,
-  "python": "3.13.5",
-  "cpu_count": 8,
-  "packages": {
-    "numpy": "2.5.3",
-    "scipy": null,
-    "matplotlib": "3.11.2",
-    "pandas": "3.0.6",
-    "beautifulsoup4": "4.15.0",
-    "lxml": "6.1.3"
-  },
   "requests": [
     {
       "name": "paper_abs.html",
