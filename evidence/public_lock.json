@@ -1,0 +1,11 @@
+{
+  "lock_commit": "ed8d08bdd29e6084ccb42345896352ea1e62ad8e",
+  "commit_url": "https://github.com/empac666/ai4science-recheck-pi-coverage/commit/ed8d08bdd29e6084ccb42345896352ea1e62ad8e",
+  "protocol_url": "https://raw.githubusercontent.com/empac666/ai4science-recheck-pi-coverage/ed8d08bdd29e6084ccb42345896352ea1e62ad8e/PREREG.md",
+  "protocol_sha256": "9d486db80eb5faca0d5aeb21c60ae80088991514f2360fd99208b22e71c77991",
+  "anonymously_retrieved_utc": "2026-10-08T14:45:12Z",
+  "remote_main_at_observation": "ed8d08bdd29e6084ccb42345896352ea1e62ad8e",
+  "first_public_time": null,
+  "first_public_time_status": "待核实；events API HTTP 403；本条仅证明正式执行前公开可读，不冒充首次公开时间",
+  "user_stated_public_lock": true
+}

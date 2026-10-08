@@ -1,0 +1,19 @@
+{
+  "protocol_commit": "ed8d08bdd29e6084ccb42345896352ea1e62ad8e",
+  "protocol_sha256": "9d486db80eb5faca0d5aeb21c60ae80088991514f2360fd99208b22e71c77991",
+  "replicates": 100, "seed_start": 2026100800,
+  "bootstrap_seed": 2026110899, "bootstrap_draws": 10000,
+  "states": 3221, "burn_samples": 500, "sample_dt": 0.1,
+  "h": 0.005, "half_h": 0.0025, "initial_state": [0,0,0],
+  "lags": 20, "features": 231, "train": 1600, "calibration": 800, "test": 800,
+  "ridge_lambda": 0.01, "target_offset": 21, "shift_test_index": 160,
+  "sigma_low": 0.15, "sigma_high": 0.35,
+  "alpha": 0.05, "eta": 0.01, "history": 100,
+  "windows": {"all": [0,800], "pre": [0,160], "early50": [160,210], "transition20": [160,180], "pure30": [180,210], "high": [160,800]},
+  "methods": ["B", "F", "G", "A", "A_full", "A_clip", "A_order", "A_inf", "G_L", "rolling_F", "B_df"],
+  "setups": ["main", "half_step", "index20"], "conditions": ["constant", "shift"],
+  "n_tolerance": 0.02, "m_lower": 0.15, "e_margin": 0.02, "j_factor": 1.10,
+  "sensitivity_tolerance": 0.01, "bias_threshold": 0.1,
+  "wall_seconds": 7200, "memory_bytes": 1073741824, "artifact_bytes": 1000000000,
+  "worker_processes": 1, "blas_threads": 1, "gpu": false
+}

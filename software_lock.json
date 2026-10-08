@@ -1,0 +1,28 @@
+{
+  "python": "3.13.5",
+  "packages": {
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2",
+    "contourpy": "1.4.0",
+    "cycler": "0.12.1",
+    "fonttools": "4.65.0",
+    "kiwisolver": "1.5.1",
+    "packaging": "26.3",
+    "pillow": "12.3.0",
+    "pyparsing": "3.3.3",
+    "python-dateutil": "2.9.0.post0",
+    "six": "1.17.0"
+  },
+  "rng": "numpy.random.PCG64",
+  "dtype": "float64",
+  "blas": "scipy-openblas64 OpenBLAS 0.3.34.106.0 USE64BITINT DYNAMIC_ARCH NO_AFFINITY",
+  "threads": {
+    "OPENBLAS_NUM_THREADS": 1,
+    "OMP_NUM_THREADS": 1,
+    "MKL_NUM_THREADS": 1,
+    "NUMEXPR_NUM_THREADS": 1
+  },
+  "processes": 1,
+  "gpu": false,
+  "environment": "venv with system-site-packages, exact installed versions frozen; no machine/person identifiers"
+}
