@@ -1,0 +1,24 @@
+{
+  "requests": [
+    {
+      "name": "arxiv_license.html",
+      "url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+      "started_utc": "2026-10-08T10:30:00.855715+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+      "bytes": 1415,
+      "sha256": "1991765e2079370736d4dedf217375799ad19aab6700ebdf42ae3dd84690067a"
+    },
+    {
+      "name": "arxiv_license_policy.html",
+      "url": "https://info.arxiv.org/help/license/index.html",
+      "started_utc": "2026-10-08T10:30:01.239927+00:00",
+      "status": 200,
+      "final_url": "https://info.arxiv.org/help/license/index.html",
+      "bytes": 101170,
+      "sha256": "75ef3cef1c13bad8b20c52aee64d2608eac6c20638b71ec8ab2b6f22c84f233d"
+    }
+  ],
+  "elapsed_s": 1.031,
+  "completed_utc": "2026-10-08T10:30:01.887094+00:00"
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "00-all.tex",
+    "bytes": 3056
+  },
+  {
+    "name": "00README.json",
+    "bytes": 215
+  },
+  {
+    "name": "01-intro.tex",
+    "bytes": 6584
+  },
+  {
+    "name": "02-background.tex",
+    "bytes": 10150
+  },
+  {
+    "name": "03-method.tex",
+    "bytes": 7714
+  },
+  {
+    "name": "04-theory.tex",
+    "bytes": 37908
+  },
+  {
+    "name": "05-simulation.tex",
+    "bytes": 25486
+  },
+  {
+    "name": "06-realdata.tex",
+    "bytes": 19830
+  },
+  {
+    "name": "07-conclusion.tex",
+    "bytes": 8033
+  },
+  {
+    "name": "08-appendix.tex",
+    "bytes": 119590
+  },
+  {
+    "name": "bib.bib",
+    "bytes": 44855
+  },
+  {
+    "name": "new_images",
+    "bytes": 0
+  },
+  {
+    "name": "new_images/exp4_variance_change_response.png",
+    "bytes": 617861
+  },
+  {
+    "name": "new_images/exp1_residual_shape.png",
+    "bytes": 300688
+  },
+  {
+    "name": "new_images/reviewer_calibration_all_methods.png",
+    "bytes": 620562
+  },
+  {
+    "name": "new_images/exp2_phase_transition.png",
+    "bytes": 368396
+  },
+  {
+    "name": "new_images/sim_temporal_coupling_penalties_appendix.png",
+    "bytes": 238360
+  },
+  {
+    "name": "new_images/exp3_quadratic_features.png",
+    "bytes": 358429
+  },
+  {
+    "name": "new_images/reviewer_coverage_efficiency.png",
+    "bytes": 319217
+  },
+  {
+    "name": "new_images/unequal_budget_sensitivity.png",
+    "bytes": 353717
+  },
+  {
+    "name": "new_images/data_budget_tradeoff.png",
+    "bytes": 283433
+  },
+  {
+    "name": "new_images/sim_hd_width_verification.png",
+    "bytes": 165428
+  },
+  {
+    "name": "new_images/sim_temporal_theory_verification_3panel.png",
+    "bytes": 297135
+  }
+]
