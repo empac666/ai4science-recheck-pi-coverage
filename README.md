@@ -6,7 +6,7 @@
 - 结果前执行冻结：[EXECUTION.md](EXECUTION.md)、[源文件哈希](EXECUTION_SHA256SUMS)、[配置](config.json)、[软件锁](software_lock.json)。
 - 验收与复算：[结果前验收](validation_before_run.txt)、[独立复算脚本](scripts/recompute.py)、[复算记录](evaluation/independent_recompute.json)。
 - 审计：[偏离记录](DEVIATIONS.md)、[公开读取证据](evidence/public_lock.json)、[300 次尝试](evaluation/attempts.json)、[原始文件哈希](evaluation/artifact_manifest.json)。
-- 交流：[英文 X 草稿](x_post.md)，未发送；全部为本地中文提交，不 push。
+- 交流：[中文 X 单帖草稿](x_post_cn.md)、[英文 X 串帖草稿](x_post.md)，均未发送；全部为本地中文提交，不 push。
 
 本研究只在冻结轨道 x* 的观测噪声总体内推断，是对已知原表差距的独立实现检验。作者代码与逐重复数据不可得；A 使用本协议主约定，不能因一项不匹配就认定原论文错误。首次公开的精确时间未能从 GitHub events 接口核实；本次保存了结果生成前的匿名公开可读证据，不用本地 Git 时间或本次读取时间冒充首次公开时间。
 

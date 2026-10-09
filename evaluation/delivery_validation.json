@@ -6,10 +6,10 @@
   "report_links_and_figures_present": true,
   "main_and_sensitivity_decisions_verified": true,
   "post_characters": [
+    177,
     226,
-    186,
-    238,
-    234
+    254,
+    256
   ],
   "largest_delivery_file_bytes": 1075938,
   "branch": "run/v1"

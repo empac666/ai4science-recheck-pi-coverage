@@ -1,13 +1,13 @@
 # English X drafts (not posted)
 
-<!-- Post 1: 226 characters -->
-Independent NGRC replication, conditional on one frozen trajectory and observation noise. 100 paired noise seeds; primary and all prespecified sensitivity runs completed. This checks a known published gap, not a new discovery.
+<!-- Post 1: 177 characters -->
+Our independent NGRC recheck could not test the main hypothesis: the baseline quality gate failed. Results and limits: https://github.com/empac666/ai4science-recheck-pi-coverage
 
-<!-- Post 2: 186 characters -->
-The preregistered baseline/control gate failed, so confirmatory claims are blocked. Raw interval results remain descriptive. A mismatch does not establish an error in the original paper.
+<!-- Post 2: 226 characters -->
+All M/E/J claims are untested under the closed gate. Raw E also missed the equivalence threshold; G missed the exploratory nominal-coverage criterion. These descriptive outcomes do not establish an error in the original paper.
 
-<!-- Post 3: 238 characters -->
-Frozen protocol, code, input/output hashes, interval logs, and independent recomputation are retained. Adaptive CP conventions are uncertain. Prespecified infinite-width variants retain infinite costs; no bad seeds or points were dropped.
+<!-- Post 3: 254 characters -->
+The planned main and sensitivity runs used 100 paired noise seeds on one frozen trajectory. Baseline B was compatible in constant noise but incompatible after the noise shift. The cause remains unresolved, including possible errors in our implementation.
 
-<!-- Post 4: 234 characters -->
-Limits: inference concerns observation noise on the frozen trajectory, not arbitrary trajectories or real-world guarantees. Exact first-public timestamp remains unverified. Report includes failures, costs, and uncertainty; draft only.
+<!-- Post 4: 256 characters -->
+Protocol, code, hashes and independent recomputation are retained. Registration evidence is a public snapshot; an independent first-public timestamp is unavailable. Scope is observation noise on this trajectory. Report and posts make no confirmatory claim.
