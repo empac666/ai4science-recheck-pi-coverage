@@ -1,0 +1,2702 @@
+[
+  {
+    "setup": "main",
+    "replicate": 0,
+    "seed": 2026100800,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5665259269953822
+  },
+  {
+    "setup": "main",
+    "replicate": 1,
+    "seed": 2026100801,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5779435940057738
+  },
+  {
+    "setup": "main",
+    "replicate": 2,
+    "seed": 2026100802,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5101076909995754
+  },
+  {
+    "setup": "main",
+    "replicate": 3,
+    "seed": 2026100803,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5196065970012569
+  },
+  {
+    "setup": "main",
+    "replicate": 4,
+    "seed": 2026100804,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.531707041998743
+  },
+  {
+    "setup": "main",
+    "replicate": 5,
+    "seed": 2026100805,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.565591366001172
+  },
+  {
+    "setup": "main",
+    "replicate": 6,
+    "seed": 2026100806,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5361286249972181
+  },
+  {
+    "setup": "main",
+    "replicate": 7,
+    "seed": 2026100807,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.506106560002081
+  },
+  {
+    "setup": "main",
+    "replicate": 8,
+    "seed": 2026100808,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.7246236569990288
+  },
+  {
+    "setup": "main",
+    "replicate": 9,
+    "seed": 2026100809,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.9157599940008367
+  },
+  {
+    "setup": "main",
+    "replicate": 10,
+    "seed": 2026100810,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.832641588000115
+  },
+  {
+    "setup": "main",
+    "replicate": 11,
+    "seed": 2026100811,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.8673962729953928
+  },
+  {
+    "setup": "main",
+    "replicate": 12,
+    "seed": 2026100812,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.8245249000028707
+  },
+  {
+    "setup": "main",
+    "replicate": 13,
+    "seed": 2026100813,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.779417650999676
+  },
+  {
+    "setup": "main",
+    "replicate": 14,
+    "seed": 2026100814,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.834971566000604
+  },
+  {
+    "setup": "main",
+    "replicate": 15,
+    "seed": 2026100815,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5673131119983736
+  },
+  {
+    "setup": "main",
+    "replicate": 16,
+    "seed": 2026100816,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5059212909982307
+  },
+  {
+    "setup": "main",
+    "replicate": 17,
+    "seed": 2026100817,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5168425380034023
+  },
+  {
+    "setup": "main",
+    "replicate": 18,
+    "seed": 2026100818,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.501515379997727
+  },
+  {
+    "setup": "main",
+    "replicate": 19,
+    "seed": 2026100819,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.566762436996214
+  },
+  {
+    "setup": "main",
+    "replicate": 20,
+    "seed": 2026100820,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.6168891650013393
+  },
+  {
+    "setup": "main",
+    "replicate": 21,
+    "seed": 2026100821,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5501113110003644
+  },
+  {
+    "setup": "main",
+    "replicate": 22,
+    "seed": 2026100822,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5644805209958577
+  },
+  {
+    "setup": "main",
+    "replicate": 23,
+    "seed": 2026100823,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5380373309963034
+  },
+  {
+    "setup": "main",
+    "replicate": 24,
+    "seed": 2026100824,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5802431769989198
+  },
+  {
+    "setup": "main",
+    "replicate": 25,
+    "seed": 2026100825,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5499928610006464
+  },
+  {
+    "setup": "main",
+    "replicate": 26,
+    "seed": 2026100826,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4919172989975777
+  },
+  {
+    "setup": "main",
+    "replicate": 27,
+    "seed": 2026100827,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5378964159972384
+  },
+  {
+    "setup": "main",
+    "replicate": 28,
+    "seed": 2026100828,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.562858278004569
+  },
+  {
+    "setup": "main",
+    "replicate": 29,
+    "seed": 2026100829,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5580329590011388
+  },
+  {
+    "setup": "main",
+    "replicate": 30,
+    "seed": 2026100830,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5563564850017428
+  },
+  {
+    "setup": "main",
+    "replicate": 31,
+    "seed": 2026100831,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5908956130006118
+  },
+  {
+    "setup": "main",
+    "replicate": 32,
+    "seed": 2026100832,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.540309085001354
+  },
+  {
+    "setup": "main",
+    "replicate": 33,
+    "seed": 2026100833,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4883232019928982
+  },
+  {
+    "setup": "main",
+    "replicate": 34,
+    "seed": 2026100834,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.495636180996371
+  },
+  {
+    "setup": "main",
+    "replicate": 35,
+    "seed": 2026100835,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5619745930016506
+  },
+  {
+    "setup": "main",
+    "replicate": 36,
+    "seed": 2026100836,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.851599747002183
+  },
+  {
+    "setup": "main",
+    "replicate": 37,
+    "seed": 2026100837,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4944737260011607
+  },
+  {
+    "setup": "main",
+    "replicate": 38,
+    "seed": 2026100838,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.742095037996478
+  },
+  {
+    "setup": "main",
+    "replicate": 39,
+    "seed": 2026100839,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.9303969560060068
+  },
+  {
+    "setup": "main",
+    "replicate": 40,
+    "seed": 2026100840,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5393595829955302
+  },
+  {
+    "setup": "main",
+    "replicate": 41,
+    "seed": 2026100841,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5342234819981968
+  },
+  {
+    "setup": "main",
+    "replicate": 42,
+    "seed": 2026100842,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5291155000013532
+  },
+  {
+    "setup": "main",
+    "replicate": 43,
+    "seed": 2026100843,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4842985220020637
+  },
+  {
+    "setup": "main",
+    "replicate": 44,
+    "seed": 2026100844,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.501317009999184
+  },
+  {
+    "setup": "main",
+    "replicate": 45,
+    "seed": 2026100845,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5542428420012584
+  },
+  {
+    "setup": "main",
+    "replicate": 46,
+    "seed": 2026100846,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5269746640042285
+  },
+  {
+    "setup": "main",
+    "replicate": 47,
+    "seed": 2026100847,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5388735350061324
+  },
+  {
+    "setup": "main",
+    "replicate": 48,
+    "seed": 2026100848,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5893172869982664
+  },
+  {
+    "setup": "main",
+    "replicate": 49,
+    "seed": 2026100849,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5486709640026675
+  },
+  {
+    "setup": "main",
+    "replicate": 50,
+    "seed": 2026100850,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5240083410026273
+  },
+  {
+    "setup": "main",
+    "replicate": 51,
+    "seed": 2026100851,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.527799354000308
+  },
+  {
+    "setup": "main",
+    "replicate": 52,
+    "seed": 2026100852,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5814037029995234
+  },
+  {
+    "setup": "main",
+    "replicate": 53,
+    "seed": 2026100853,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5622523850033758
+  },
+  {
+    "setup": "main",
+    "replicate": 54,
+    "seed": 2026100854,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5320718889997806
+  },
+  {
+    "setup": "main",
+    "replicate": 55,
+    "seed": 2026100855,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4800496729949373
+  },
+  {
+    "setup": "main",
+    "replicate": 56,
+    "seed": 2026100856,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5204428600045503
+  },
+  {
+    "setup": "main",
+    "replicate": 57,
+    "seed": 2026100857,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4846690189951914
+  },
+  {
+    "setup": "main",
+    "replicate": 58,
+    "seed": 2026100858,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4830009029974462
+  },
+  {
+    "setup": "main",
+    "replicate": 59,
+    "seed": 2026100859,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5053120709999348
+  },
+  {
+    "setup": "main",
+    "replicate": 60,
+    "seed": 2026100860,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5355746220011497
+  },
+  {
+    "setup": "main",
+    "replicate": 61,
+    "seed": 2026100861,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.551310578994162
+  },
+  {
+    "setup": "main",
+    "replicate": 62,
+    "seed": 2026100862,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5028348839987302
+  },
+  {
+    "setup": "main",
+    "replicate": 63,
+    "seed": 2026100863,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5017899200029206
+  },
+  {
+    "setup": "main",
+    "replicate": 64,
+    "seed": 2026100864,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5213943500057212
+  },
+  {
+    "setup": "main",
+    "replicate": 65,
+    "seed": 2026100865,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5272730590004358
+  },
+  {
+    "setup": "main",
+    "replicate": 66,
+    "seed": 2026100866,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5266041700015194
+  },
+  {
+    "setup": "main",
+    "replicate": 67,
+    "seed": 2026100867,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5185049470019294
+  },
+  {
+    "setup": "main",
+    "replicate": 68,
+    "seed": 2026100868,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5290566129988292
+  },
+  {
+    "setup": "main",
+    "replicate": 69,
+    "seed": 2026100869,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.536135768998065
+  },
+  {
+    "setup": "main",
+    "replicate": 70,
+    "seed": 2026100870,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5138208469943493
+  },
+  {
+    "setup": "main",
+    "replicate": 71,
+    "seed": 2026100871,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4640130900006625
+  },
+  {
+    "setup": "main",
+    "replicate": 72,
+    "seed": 2026100872,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4948634059983306
+  },
+  {
+    "setup": "main",
+    "replicate": 73,
+    "seed": 2026100873,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5705074340003193
+  },
+  {
+    "setup": "main",
+    "replicate": 74,
+    "seed": 2026100874,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.505493162003404
+  },
+  {
+    "setup": "main",
+    "replicate": 75,
+    "seed": 2026100875,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.53526984200289
+  },
+  {
+    "setup": "main",
+    "replicate": 76,
+    "seed": 2026100876,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5277932040044107
+  },
+  {
+    "setup": "main",
+    "replicate": 77,
+    "seed": 2026100877,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.527426385000581
+  },
+  {
+    "setup": "main",
+    "replicate": 78,
+    "seed": 2026100878,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5176173680010834
+  },
+  {
+    "setup": "main",
+    "replicate": 79,
+    "seed": 2026100879,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.505331637999916
+  },
+  {
+    "setup": "main",
+    "replicate": 80,
+    "seed": 2026100880,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.7813918710016878
+  },
+  {
+    "setup": "main",
+    "replicate": 81,
+    "seed": 2026100881,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.8551504200004274
+  },
+  {
+    "setup": "main",
+    "replicate": 82,
+    "seed": 2026100882,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.8089621280014399
+  },
+  {
+    "setup": "main",
+    "replicate": 83,
+    "seed": 2026100883,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4909700200005318
+  },
+  {
+    "setup": "main",
+    "replicate": 84,
+    "seed": 2026100884,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.6317781820034725
+  },
+  {
+    "setup": "main",
+    "replicate": 85,
+    "seed": 2026100885,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.7271446630038554
+  },
+  {
+    "setup": "main",
+    "replicate": 86,
+    "seed": 2026100886,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.72876485499728
+  },
+  {
+    "setup": "main",
+    "replicate": 87,
+    "seed": 2026100887,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.668140190995473
+  },
+  {
+    "setup": "main",
+    "replicate": 88,
+    "seed": 2026100888,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5716673409988289
+  },
+  {
+    "setup": "main",
+    "replicate": 89,
+    "seed": 2026100889,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5386323160055326
+  },
+  {
+    "setup": "main",
+    "replicate": 90,
+    "seed": 2026100890,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5508433889990556
+  },
+  {
+    "setup": "main",
+    "replicate": 91,
+    "seed": 2026100891,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5837075430026744
+  },
+  {
+    "setup": "main",
+    "replicate": 92,
+    "seed": 2026100892,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.544590582998353
+  },
+  {
+    "setup": "main",
+    "replicate": 93,
+    "seed": 2026100893,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5129011030003312
+  },
+  {
+    "setup": "main",
+    "replicate": 94,
+    "seed": 2026100894,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.535699891996046
+  },
+  {
+    "setup": "main",
+    "replicate": 95,
+    "seed": 2026100895,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5128334819964948
+  },
+  {
+    "setup": "main",
+    "replicate": 96,
+    "seed": 2026100896,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4963016319961753
+  },
+  {
+    "setup": "main",
+    "replicate": 97,
+    "seed": 2026100897,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.511591586000577
+  },
+  {
+    "setup": "main",
+    "replicate": 98,
+    "seed": 2026100898,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.548279545000696
+  },
+  {
+    "setup": "main",
+    "replicate": 99,
+    "seed": 2026100899,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.5491236349989776
+  },
+  {
+    "setup": "half_step",
+    "replicate": 0,
+    "seed": 2026100800,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9471840810001595
+  },
+  {
+    "setup": "half_step",
+    "replicate": 1,
+    "seed": 2026100801,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.962857061997056
+  },
+  {
+    "setup": "half_step",
+    "replicate": 2,
+    "seed": 2026100802,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9623065039995709
+  },
+  {
+    "setup": "half_step",
+    "replicate": 3,
+    "seed": 2026100803,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9431091340011335
+  },
+  {
+    "setup": "half_step",
+    "replicate": 4,
+    "seed": 2026100804,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.943136568996124
+  },
+  {
+    "setup": "half_step",
+    "replicate": 5,
+    "seed": 2026100805,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9402222670032643
+  },
+  {
+    "setup": "half_step",
+    "replicate": 6,
+    "seed": 2026100806,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9349905639974168
+  },
+  {
+    "setup": "half_step",
+    "replicate": 7,
+    "seed": 2026100807,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9388218899985077
+  },
+  {
+    "setup": "half_step",
+    "replicate": 8,
+    "seed": 2026100808,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.947384883002087
+  },
+  {
+    "setup": "half_step",
+    "replicate": 9,
+    "seed": 2026100809,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0961394240002846
+  },
+  {
+    "setup": "half_step",
+    "replicate": 10,
+    "seed": 2026100810,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1623091650035349
+  },
+  {
+    "setup": "half_step",
+    "replicate": 11,
+    "seed": 2026100811,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1530818219980574
+  },
+  {
+    "setup": "half_step",
+    "replicate": 12,
+    "seed": 2026100812,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1257540120059275
+  },
+  {
+    "setup": "half_step",
+    "replicate": 13,
+    "seed": 2026100813,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1807216909946874
+  },
+  {
+    "setup": "half_step",
+    "replicate": 14,
+    "seed": 2026100814,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1383050290023675
+  },
+  {
+    "setup": "half_step",
+    "replicate": 15,
+    "seed": 2026100815,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1762660380045418
+  },
+  {
+    "setup": "half_step",
+    "replicate": 16,
+    "seed": 2026100816,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0940646699964418
+  },
+  {
+    "setup": "half_step",
+    "replicate": 17,
+    "seed": 2026100817,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1751508109955466
+  },
+  {
+    "setup": "half_step",
+    "replicate": 18,
+    "seed": 2026100818,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9931963520066347
+  },
+  {
+    "setup": "half_step",
+    "replicate": 19,
+    "seed": 2026100819,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9511600400001043
+  },
+  {
+    "setup": "half_step",
+    "replicate": 20,
+    "seed": 2026100820,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9313624380010879
+  },
+  {
+    "setup": "half_step",
+    "replicate": 21,
+    "seed": 2026100821,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9482632760045817
+  },
+  {
+    "setup": "half_step",
+    "replicate": 22,
+    "seed": 2026100822,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9178421579999849
+  },
+  {
+    "setup": "half_step",
+    "replicate": 23,
+    "seed": 2026100823,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9212895430027856
+  },
+  {
+    "setup": "half_step",
+    "replicate": 24,
+    "seed": 2026100824,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9178038149984786
+  },
+  {
+    "setup": "half_step",
+    "replicate": 25,
+    "seed": 2026100825,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9203292620004504
+  },
+  {
+    "setup": "half_step",
+    "replicate": 26,
+    "seed": 2026100826,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9086955900056637
+  },
+  {
+    "setup": "half_step",
+    "replicate": 27,
+    "seed": 2026100827,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.911926916000084
+  },
+  {
+    "setup": "half_step",
+    "replicate": 28,
+    "seed": 2026100828,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9084629240023787
+  },
+  {
+    "setup": "half_step",
+    "replicate": 29,
+    "seed": 2026100829,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9166694300001836
+  },
+  {
+    "setup": "half_step",
+    "replicate": 30,
+    "seed": 2026100830,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9129186089994619
+  },
+  {
+    "setup": "half_step",
+    "replicate": 31,
+    "seed": 2026100831,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9172958900016965
+  },
+  {
+    "setup": "half_step",
+    "replicate": 32,
+    "seed": 2026100832,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.063605577000999
+  },
+  {
+    "setup": "half_step",
+    "replicate": 33,
+    "seed": 2026100833,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0696511350033688
+  },
+  {
+    "setup": "half_step",
+    "replicate": 34,
+    "seed": 2026100834,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.076999971002806
+  },
+  {
+    "setup": "half_step",
+    "replicate": 35,
+    "seed": 2026100835,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0534556200000225
+  },
+  {
+    "setup": "half_step",
+    "replicate": 36,
+    "seed": 2026100836,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1219424329974572
+  },
+  {
+    "setup": "half_step",
+    "replicate": 37,
+    "seed": 2026100837,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0706801769993035
+  },
+  {
+    "setup": "half_step",
+    "replicate": 38,
+    "seed": 2026100838,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1997410279946052
+  },
+  {
+    "setup": "half_step",
+    "replicate": 39,
+    "seed": 2026100839,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.4361503679974703
+  },
+  {
+    "setup": "half_step",
+    "replicate": 40,
+    "seed": 2026100840,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.3431269229986356
+  },
+  {
+    "setup": "half_step",
+    "replicate": 41,
+    "seed": 2026100841,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.073949438999989
+  },
+  {
+    "setup": "half_step",
+    "replicate": 42,
+    "seed": 2026100842,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0134553759999108
+  },
+  {
+    "setup": "half_step",
+    "replicate": 43,
+    "seed": 2026100843,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0436395189972245
+  },
+  {
+    "setup": "half_step",
+    "replicate": 44,
+    "seed": 2026100844,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0755117970038555
+  },
+  {
+    "setup": "half_step",
+    "replicate": 45,
+    "seed": 2026100845,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9437422169939964
+  },
+  {
+    "setup": "half_step",
+    "replicate": 46,
+    "seed": 2026100846,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9196309939943603
+  },
+  {
+    "setup": "half_step",
+    "replicate": 47,
+    "seed": 2026100847,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9106910269983928
+  },
+  {
+    "setup": "half_step",
+    "replicate": 48,
+    "seed": 2026100848,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9196883530021296
+  },
+  {
+    "setup": "half_step",
+    "replicate": 49,
+    "seed": 2026100849,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9343064900022
+  },
+  {
+    "setup": "half_step",
+    "replicate": 50,
+    "seed": 2026100850,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9329670639999676
+  },
+  {
+    "setup": "half_step",
+    "replicate": 51,
+    "seed": 2026100851,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9415911219984991
+  },
+  {
+    "setup": "half_step",
+    "replicate": 52,
+    "seed": 2026100852,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9706604409948341
+  },
+  {
+    "setup": "half_step",
+    "replicate": 53,
+    "seed": 2026100853,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9592751749951276
+  },
+  {
+    "setup": "half_step",
+    "replicate": 54,
+    "seed": 2026100854,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9468528279976454
+  },
+  {
+    "setup": "half_step",
+    "replicate": 55,
+    "seed": 2026100855,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9199319809995359
+  },
+  {
+    "setup": "half_step",
+    "replicate": 56,
+    "seed": 2026100856,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9308626620040741
+  },
+  {
+    "setup": "half_step",
+    "replicate": 57,
+    "seed": 2026100857,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9322986589977518
+  },
+  {
+    "setup": "half_step",
+    "replicate": 58,
+    "seed": 2026100858,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9829295070012449
+  },
+  {
+    "setup": "half_step",
+    "replicate": 59,
+    "seed": 2026100859,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9937693399988348
+  },
+  {
+    "setup": "half_step",
+    "replicate": 60,
+    "seed": 2026100860,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9510446200001752
+  },
+  {
+    "setup": "half_step",
+    "replicate": 61,
+    "seed": 2026100861,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.981206538999686
+  },
+  {
+    "setup": "half_step",
+    "replicate": 62,
+    "seed": 2026100862,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9695607419998851
+  },
+  {
+    "setup": "half_step",
+    "replicate": 63,
+    "seed": 2026100863,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9675193770017358
+  },
+  {
+    "setup": "half_step",
+    "replicate": 64,
+    "seed": 2026100864,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9821112170029664
+  },
+  {
+    "setup": "half_step",
+    "replicate": 65,
+    "seed": 2026100865,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0695001100029913
+  },
+  {
+    "setup": "half_step",
+    "replicate": 66,
+    "seed": 2026100866,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0892872019976494
+  },
+  {
+    "setup": "half_step",
+    "replicate": 67,
+    "seed": 2026100867,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9710124299963354
+  },
+  {
+    "setup": "half_step",
+    "replicate": 68,
+    "seed": 2026100868,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1387507149993326
+  },
+  {
+    "setup": "half_step",
+    "replicate": 69,
+    "seed": 2026100869,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9798354630038375
+  },
+  {
+    "setup": "half_step",
+    "replicate": 70,
+    "seed": 2026100870,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.0009655039975769
+  },
+  {
+    "setup": "half_step",
+    "replicate": 71,
+    "seed": 2026100871,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9870145460008644
+  },
+  {
+    "setup": "half_step",
+    "replicate": 72,
+    "seed": 2026100872,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 1.1045929289975902
+  },
+  {
+    "setup": "half_step",
+    "replicate": 73,
+    "seed": 2026100873,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9431367599972873
+  },
+  {
+    "setup": "half_step",
+    "replicate": 74,
+    "seed": 2026100874,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9326650200018776
+  },
+  {
+    "setup": "half_step",
+    "replicate": 75,
+    "seed": 2026100875,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9314826850022655
+  },
+  {
+    "setup": "half_step",
+    "replicate": 76,
+    "seed": 2026100876,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9464867979986593
+  },
+  {
+    "setup": "half_step",
+    "replicate": 77,
+    "seed": 2026100877,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9306677069980651
+  },
+  {
+    "setup": "half_step",
+    "replicate": 78,
+    "seed": 2026100878,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9242322729987791
+  },
+  {
+    "setup": "half_step",
+    "replicate": 79,
+    "seed": 2026100879,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9347344929992687
+  },
+  {
+    "setup": "half_step",
+    "replicate": 80,
+    "seed": 2026100880,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9214616749959532
+  },
+  {
+    "setup": "half_step",
+    "replicate": 81,
+    "seed": 2026100881,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9564641230026609
+  },
+  {
+    "setup": "half_step",
+    "replicate": 82,
+    "seed": 2026100882,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.933318112998677
+  },
+  {
+    "setup": "half_step",
+    "replicate": 83,
+    "seed": 2026100883,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9216110510024009
+  },
+  {
+    "setup": "half_step",
+    "replicate": 84,
+    "seed": 2026100884,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9170898989978014
+  },
+  {
+    "setup": "half_step",
+    "replicate": 85,
+    "seed": 2026100885,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9356074720053584
+  },
+  {
+    "setup": "half_step",
+    "replicate": 86,
+    "seed": 2026100886,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9291025149941561
+  },
+  {
+    "setup": "half_step",
+    "replicate": 87,
+    "seed": 2026100887,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.940051082005084
+  },
+  {
+    "setup": "half_step",
+    "replicate": 88,
+    "seed": 2026100888,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9368827020007302
+  },
+  {
+    "setup": "half_step",
+    "replicate": 89,
+    "seed": 2026100889,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9437124440009939
+  },
+  {
+    "setup": "half_step",
+    "replicate": 90,
+    "seed": 2026100890,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9247126760019455
+  },
+  {
+    "setup": "half_step",
+    "replicate": 91,
+    "seed": 2026100891,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9195580129962764
+  },
+  {
+    "setup": "half_step",
+    "replicate": 92,
+    "seed": 2026100892,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9128682840018882
+  },
+  {
+    "setup": "half_step",
+    "replicate": 93,
+    "seed": 2026100893,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9196575460009626
+  },
+  {
+    "setup": "half_step",
+    "replicate": 94,
+    "seed": 2026100894,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9266750430033426
+  },
+  {
+    "setup": "half_step",
+    "replicate": 95,
+    "seed": 2026100895,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9244079730051453
+  },
+  {
+    "setup": "half_step",
+    "replicate": 96,
+    "seed": 2026100896,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9259769470008905
+  },
+  {
+    "setup": "half_step",
+    "replicate": 97,
+    "seed": 2026100897,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9189828009984922
+  },
+  {
+    "setup": "half_step",
+    "replicate": 98,
+    "seed": 2026100898,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9166216770026949
+  },
+  {
+    "setup": "half_step",
+    "replicate": 99,
+    "seed": 2026100899,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9133160730052623
+  },
+  {
+    "setup": "index20",
+    "replicate": 0,
+    "seed": 2026100800,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9199418639982468
+  },
+  {
+    "setup": "index20",
+    "replicate": 1,
+    "seed": 2026100801,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9166622599950642
+  },
+  {
+    "setup": "index20",
+    "replicate": 2,
+    "seed": 2026100802,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9062837999954354
+  },
+  {
+    "setup": "index20",
+    "replicate": 3,
+    "seed": 2026100803,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9116509740051697
+  },
+  {
+    "setup": "index20",
+    "replicate": 4,
+    "seed": 2026100804,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9091035480014398
+  },
+  {
+    "setup": "index20",
+    "replicate": 5,
+    "seed": 2026100805,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.8983809130004374
+  },
+  {
+    "setup": "index20",
+    "replicate": 6,
+    "seed": 2026100806,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9051248590039904
+  },
+  {
+    "setup": "index20",
+    "replicate": 7,
+    "seed": 2026100807,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9131235809982172
+  },
+  {
+    "setup": "index20",
+    "replicate": 8,
+    "seed": 2026100808,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9144631169983768
+  },
+  {
+    "setup": "index20",
+    "replicate": 9,
+    "seed": 2026100809,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9345210530009354
+  },
+  {
+    "setup": "index20",
+    "replicate": 10,
+    "seed": 2026100810,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.908075187006034
+  },
+  {
+    "setup": "index20",
+    "replicate": 11,
+    "seed": 2026100811,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9233433480039821
+  },
+  {
+    "setup": "index20",
+    "replicate": 12,
+    "seed": 2026100812,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9215394459970412
+  },
+  {
+    "setup": "index20",
+    "replicate": 13,
+    "seed": 2026100813,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9149662010022439
+  },
+  {
+    "setup": "index20",
+    "replicate": 14,
+    "seed": 2026100814,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9141845220001414
+  },
+  {
+    "setup": "index20",
+    "replicate": 15,
+    "seed": 2026100815,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.970207449994632
+  },
+  {
+    "setup": "index20",
+    "replicate": 16,
+    "seed": 2026100816,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.911150207000901
+  },
+  {
+    "setup": "index20",
+    "replicate": 17,
+    "seed": 2026100817,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.922478371001489
+  },
+  {
+    "setup": "index20",
+    "replicate": 18,
+    "seed": 2026100818,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9235728829953587
+  },
+  {
+    "setup": "index20",
+    "replicate": 19,
+    "seed": 2026100819,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9062395250002737
+  },
+  {
+    "setup": "index20",
+    "replicate": 20,
+    "seed": 2026100820,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9130125490046339
+  },
+  {
+    "setup": "index20",
+    "replicate": 21,
+    "seed": 2026100821,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9096887189953122
+  },
+  {
+    "setup": "index20",
+    "replicate": 22,
+    "seed": 2026100822,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9820309459973942
+  },
+  {
+    "setup": "index20",
+    "replicate": 23,
+    "seed": 2026100823,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.953678170000785
+  },
+  {
+    "setup": "index20",
+    "replicate": 24,
+    "seed": 2026100824,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9576197510032216
+  },
+  {
+    "setup": "index20",
+    "replicate": 25,
+    "seed": 2026100825,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9686058939987561
+  },
+  {
+    "setup": "index20",
+    "replicate": 26,
+    "seed": 2026100826,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9518235489958897
+  },
+  {
+    "setup": "index20",
+    "replicate": 27,
+    "seed": 2026100827,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9832397810023394
+  },
+  {
+    "setup": "index20",
+    "replicate": 28,
+    "seed": 2026100828,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.983209951002209
+  },
+  {
+    "setup": "index20",
+    "replicate": 29,
+    "seed": 2026100829,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9537067259952892
+  },
+  {
+    "setup": "index20",
+    "replicate": 30,
+    "seed": 2026100830,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9581047319952631
+  },
+  {
+    "setup": "index20",
+    "replicate": 31,
+    "seed": 2026100831,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9444078610031283
+  },
+  {
+    "setup": "index20",
+    "replicate": 32,
+    "seed": 2026100832,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.929870136998943
+  },
+  {
+    "setup": "index20",
+    "replicate": 33,
+    "seed": 2026100833,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9401462899986655
+  },
+  {
+    "setup": "index20",
+    "replicate": 34,
+    "seed": 2026100834,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9672172550053801
+  },
+  {
+    "setup": "index20",
+    "replicate": 35,
+    "seed": 2026100835,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9650665199951618
+  },
+  {
+    "setup": "index20",
+    "replicate": 36,
+    "seed": 2026100836,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9595752970053582
+  },
+  {
+    "setup": "index20",
+    "replicate": 37,
+    "seed": 2026100837,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9523078569982317
+  },
+  {
+    "setup": "index20",
+    "replicate": 38,
+    "seed": 2026100838,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9608757480018539
+  },
+  {
+    "setup": "index20",
+    "replicate": 39,
+    "seed": 2026100839,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9632462419976946
+  },
+  {
+    "setup": "index20",
+    "replicate": 40,
+    "seed": 2026100840,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9557353120035259
+  },
+  {
+    "setup": "index20",
+    "replicate": 41,
+    "seed": 2026100841,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9444350929989014
+  },
+  {
+    "setup": "index20",
+    "replicate": 42,
+    "seed": 2026100842,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9329044469996006
+  },
+  {
+    "setup": "index20",
+    "replicate": 43,
+    "seed": 2026100843,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9379172029948677
+  },
+  {
+    "setup": "index20",
+    "replicate": 44,
+    "seed": 2026100844,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9253625970013672
+  },
+  {
+    "setup": "index20",
+    "replicate": 45,
+    "seed": 2026100845,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9546054689999437
+  },
+  {
+    "setup": "index20",
+    "replicate": 46,
+    "seed": 2026100846,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9472227340011159
+  },
+  {
+    "setup": "index20",
+    "replicate": 47,
+    "seed": 2026100847,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.949093991999689
+  },
+  {
+    "setup": "index20",
+    "replicate": 48,
+    "seed": 2026100848,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9556988679978531
+  },
+  {
+    "setup": "index20",
+    "replicate": 49,
+    "seed": 2026100849,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9317090670010657
+  },
+  {
+    "setup": "index20",
+    "replicate": 50,
+    "seed": 2026100850,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9365743230009684
+  },
+  {
+    "setup": "index20",
+    "replicate": 51,
+    "seed": 2026100851,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9435842969978694
+  },
+  {
+    "setup": "index20",
+    "replicate": 52,
+    "seed": 2026100852,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9300177589975647
+  },
+  {
+    "setup": "index20",
+    "replicate": 53,
+    "seed": 2026100853,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9290918629994849
+  },
+  {
+    "setup": "index20",
+    "replicate": 54,
+    "seed": 2026100854,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9342796269993414
+  },
+  {
+    "setup": "index20",
+    "replicate": 55,
+    "seed": 2026100855,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9219364899981883
+  },
+  {
+    "setup": "index20",
+    "replicate": 56,
+    "seed": 2026100856,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9105952659956529
+  },
+  {
+    "setup": "index20",
+    "replicate": 57,
+    "seed": 2026100857,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9346832489973167
+  },
+  {
+    "setup": "index20",
+    "replicate": 58,
+    "seed": 2026100858,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9351161810045596
+  },
+  {
+    "setup": "index20",
+    "replicate": 59,
+    "seed": 2026100859,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.961865831995965
+  },
+  {
+    "setup": "index20",
+    "replicate": 60,
+    "seed": 2026100860,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9491975689961691
+  },
+  {
+    "setup": "index20",
+    "replicate": 61,
+    "seed": 2026100861,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9564305849999073
+  },
+  {
+    "setup": "index20",
+    "replicate": 62,
+    "seed": 2026100862,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9495028800010914
+  },
+  {
+    "setup": "index20",
+    "replicate": 63,
+    "seed": 2026100863,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9352283100015484
+  },
+  {
+    "setup": "index20",
+    "replicate": 64,
+    "seed": 2026100864,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9411888850008836
+  },
+  {
+    "setup": "index20",
+    "replicate": 65,
+    "seed": 2026100865,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9433609309999156
+  },
+  {
+    "setup": "index20",
+    "replicate": 66,
+    "seed": 2026100866,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9494877039978746
+  },
+  {
+    "setup": "index20",
+    "replicate": 67,
+    "seed": 2026100867,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9560471270015114
+  },
+  {
+    "setup": "index20",
+    "replicate": 68,
+    "seed": 2026100868,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9233787249977468
+  },
+  {
+    "setup": "index20",
+    "replicate": 69,
+    "seed": 2026100869,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9127619650025736
+  },
+  {
+    "setup": "index20",
+    "replicate": 70,
+    "seed": 2026100870,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9155006009968929
+  },
+  {
+    "setup": "index20",
+    "replicate": 71,
+    "seed": 2026100871,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9156793229994946
+  },
+  {
+    "setup": "index20",
+    "replicate": 72,
+    "seed": 2026100872,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9137110509982449
+  },
+  {
+    "setup": "index20",
+    "replicate": 73,
+    "seed": 2026100873,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9175190520036267
+  },
+  {
+    "setup": "index20",
+    "replicate": 74,
+    "seed": 2026100874,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9236982889997307
+  },
+  {
+    "setup": "index20",
+    "replicate": 75,
+    "seed": 2026100875,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.918048800995166
+  },
+  {
+    "setup": "index20",
+    "replicate": 76,
+    "seed": 2026100876,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9116465679981047
+  },
+  {
+    "setup": "index20",
+    "replicate": 77,
+    "seed": 2026100877,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9131801569965319
+  },
+  {
+    "setup": "index20",
+    "replicate": 78,
+    "seed": 2026100878,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9120710579954903
+  },
+  {
+    "setup": "index20",
+    "replicate": 79,
+    "seed": 2026100879,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9204595019982662
+  },
+  {
+    "setup": "index20",
+    "replicate": 80,
+    "seed": 2026100880,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.915434099995764
+  },
+  {
+    "setup": "index20",
+    "replicate": 81,
+    "seed": 2026100881,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9080105109969736
+  },
+  {
+    "setup": "index20",
+    "replicate": 82,
+    "seed": 2026100882,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9118170049987384
+  },
+  {
+    "setup": "index20",
+    "replicate": 83,
+    "seed": 2026100883,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9155392309985473
+  },
+  {
+    "setup": "index20",
+    "replicate": 84,
+    "seed": 2026100884,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.912574494999717
+  },
+  {
+    "setup": "index20",
+    "replicate": 85,
+    "seed": 2026100885,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9171081160020549
+  },
+  {
+    "setup": "index20",
+    "replicate": 86,
+    "seed": 2026100886,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9101857929999824
+  },
+  {
+    "setup": "index20",
+    "replicate": 87,
+    "seed": 2026100887,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9149047579994658
+  },
+  {
+    "setup": "index20",
+    "replicate": 88,
+    "seed": 2026100888,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9437145539995981
+  },
+  {
+    "setup": "index20",
+    "replicate": 89,
+    "seed": 2026100889,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9361152339988621
+  },
+  {
+    "setup": "index20",
+    "replicate": 90,
+    "seed": 2026100890,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.934342671003833
+  },
+  {
+    "setup": "index20",
+    "replicate": 91,
+    "seed": 2026100891,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9178394670016132
+  },
+  {
+    "setup": "index20",
+    "replicate": 92,
+    "seed": 2026100892,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9106735560053494
+  },
+  {
+    "setup": "index20",
+    "replicate": 93,
+    "seed": 2026100893,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.912744481000118
+  },
+  {
+    "setup": "index20",
+    "replicate": 94,
+    "seed": 2026100894,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9136643710007775
+  },
+  {
+    "setup": "index20",
+    "replicate": 95,
+    "seed": 2026100895,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9206243669977994
+  },
+  {
+    "setup": "index20",
+    "replicate": 96,
+    "seed": 2026100896,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9216213649997371
+  },
+  {
+    "setup": "index20",
+    "replicate": 97,
+    "seed": 2026100897,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9182572460049414
+  },
+  {
+    "setup": "index20",
+    "replicate": 98,
+    "seed": 2026100898,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9292570500037982
+  },
+  {
+    "setup": "index20",
+    "replicate": 99,
+    "seed": 2026100899,
+    "status": "complete",
+    "exit_code": 0,
+    "stage": "complete",
+    "seconds": 0.9375761640039855
+  }
+]

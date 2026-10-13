@@ -1,0 +1,16 @@
+test_adaptive_boundaries_and_order_statistics (test_protocol.ProtocolChecks.test_adaptive_boundaries_and_order_statistics) ... ok
+test_conclusion_priority_and_limits (test_protocol.ProtocolChecks.test_conclusion_priority_and_limits) ... ok
+test_cost_dispatch_bias_and_joint_gate (test_protocol.ProtocolChecks.test_cost_dispatch_bias_and_joint_gate) ... ok
+test_current_future_perturbation_cannot_change_current_interval (test_protocol.ProtocolChecks.test_current_future_perturbation_cannot_change_current_interval) ... ok
+test_features_order_and_penalty (test_protocol.ProtocolChecks.test_features_order_and_penalty) ... ok
+test_interval_score_and_invalid_width (test_protocol.ProtocolChecks.test_interval_score_and_invalid_width) ... ok
+test_observation_and_shift_indices (test_protocol.ProtocolChecks.test_observation_and_shift_indices) ... ok
+test_quality_gate_compatibility_and_strict_boundaries (test_protocol.ProtocolChecks.test_quality_gate_compatibility_and_strict_boundaries) ... ok
+test_snapshot_isolation_and_history_ids (test_protocol.ProtocolChecks.test_snapshot_isolation_and_history_ids) ... ok
+test_synchronous_euler_and_first_sample (test_protocol.ProtocolChecks.test_synchronous_euler_and_first_sample) ... ok
+test_early_width_and_bias_in_same_paragraph (test_protocol.ReportingChecks.test_early_width_and_bias_in_same_paragraph) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.581s
+
+OK

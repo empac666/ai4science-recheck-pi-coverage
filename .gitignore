@@ -1,4 +1,3 @@
-# Local environments and generated output
 .venv/
 __pycache__/
 *.py[cod]
@@ -8,8 +7,7 @@ __pycache__/
 data/
 results/
 outputs/
-
-# Source audit full-text copies are kept outside this public scaffold
+artifacts/
 evidence/*.pdf
 evidence/*.html
 evidence/*.tex
